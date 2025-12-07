@@ -15,3 +15,30 @@ The following three data sources will be utilized for collecting information:
 
 ![Data Sources](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Data%20Sources.png)
 
+# Workflow Summary
+
+The chart below summarizes the workflow for the project.
+
+![Work Flow](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Modelling.png)
+
+# Technology Used 
+
+- Languages Used: Python
+- Additional Softwares: Tableau, Mermaid
+- Data Sources: FPL API, GitHub, CIES Football Observatory
+
+# Results Summary 
+
+![Descriptive Statistics I](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Dashboard1-2.png)
+
+![Descriptive Statistics II](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Dashboard3.png)
+
+![Social Network Analysis](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Modelling.png)
+
+![LSTM](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/LSTM.png)
+
+![1D Temporal CNN](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/1DTCNN.png)
+
+![2D Temporal CNN](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/2DTCNN.png)
+
+![Metric Comparison](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/ModelMetrics.png)
