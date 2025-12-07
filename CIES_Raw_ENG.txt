@@ -1,0 +1,98 @@
+"
+233.6 M
+
+Manchester United (ENG)
+44.8 M64.4 M85.1 M29.3 M10.0 M
++7.3 M
++3.4 %
+179.5 M
+
+Manchester City (ENG)
+28.9 M56.1 M54.9 M31.2 M8.5 M
++12.7 M
++8.0 %
+166.7 M
+
+Liverpool (ENG)
+31.6 M47.0 M51.7 M25.0 M11.4 M
++10.9 M
++7.5 %
+152.9 M
+
+Chelsea (ENG)
+29.2 M42.6 M56.5 M18.7 M5.8 M
++5.3 M
++3.8 %
+114.1 M
+
+Arsenal (ENG)
+23.0 M30.9 M45.8 M9.7 M4.7 M
++7.0 M
++6.9 %
+108.1 M
+
+Tottenham Hotspur (ENG)
+9.7 M17.4 M36.4 M40.6 M4.0 M
++7.7 M
++7.9 %
+24.5 M
+
+Leicester City (ENG)
+2.7 M7.9 M9.5 M3.7 M0.7 M
++1.1 M
++5.0 %
+19.1 M
+
+West Ham United (ENG)
+2.8 M4.5 M4.4 M6.7 M0.7 M
++0.9 M
++4.9 %
+18.8 M
+
+Aston Villa (ENG)
+2.6 M4.4 M6.7 M4.4 M0.7 M
++2.1 M
++13.2 %
+17.2 M
+
+Newcastle United (ENG)
+2.9 M3.2 M4.8 M5.5 M0.8 M
++3.0 M
++22.7 %
+14.5 M
+
+Everton (ENG)
+3.1 M3.2 M4.7 M2.6 M0.9 M
++0.4 M
++3.1 %
+12.0 M
+
+Wolverhampton Wanderers (ENG)
+1.5 M3.0 M3.5 M3.3 M0.8 M
++0.6 M
++6.1 %
+9.7 M
+
+Brighton & Hove Albion (ENG)
+1.2 M2.2 M2.2 M3.4 M0.7 M
++0.6 M
++7.3 %
+7.9 M
+
+Southampton FC (ENG)
+1.6 M1.4 M3.5 M1.0 M0.3 M
++0.1 M
++2.0 %
+7.6 M
+
+Crystal Palace (ENG)
+1.5 M2.2 M2.2 M1.4 M0.3 M
++1.0 M
++15.0 %
+6.4 M
+
+Leeds United (ENG)
+1.1 M1.2 M1.6 M2.0 M0.5 M
++0.5 M
++10.0 %
+"
