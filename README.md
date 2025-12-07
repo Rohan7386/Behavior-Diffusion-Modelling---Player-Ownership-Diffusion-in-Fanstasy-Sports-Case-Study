@@ -29,11 +29,9 @@ The chart below summarizes the workflow for the project.
 
 # Results Summary 
 
-![Descriptive Statistics I](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Dashboard1-2.png)
+![Descriptive Statistics](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Dashboard1-2.png)
 
-![Descriptive Statistics II](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Dashboard3.png)
-
-![Social Network Analysis](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Modelling.png)
+![Social Network Analysis](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/Dashboard3.png)
 
 ![LSTM](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/LSTM.png)
 
@@ -42,3 +40,17 @@ The chart below summarizes the workflow for the project.
 ![2D Temporal CNN](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/2DTCNN.png)
 
 ![Metric Comparison](https://github.com/Rohan7386/Behavior-Diffusion-Modelling---Player-Ownership-Diffusion-in-Fanstasy-Sports-Case-Study/blob/main/ModelMetrics.png)
+
+# Summary Findings
+
+Nottingham Forest had a positive diffusion in the transfer pressure as the last season progressed.Crystal Palace has the largest transfer momentum with Crystal Palace, Manchester City and Newcastle having the largest total points momentum, so far this season.The Co-Ownership Network showed presence of three influential clusters that formed three influential communities in the diffusion of Co-Ownership. All three models showed good performance in the validation data and had low predictive power for the diffusion of Co-ownership of players in the FPL. However, the LSTM captured well the underlying noise while the Temporal CNNs overpredicted large diffusions. 
+
+The case of Nottingham Forest for last season presents a useful case for diffusion modeling , while for this season so far, Crystal Palace presents a case study that can be compared to that of Nottingham Forest. Co-ownership network consist of clusters that form communities that can are influential in managers’ behavior in terms of player ownership. Although all three models have low prediction power, the LSTM performs best in prediction of diffusion of player ownership, with a 5.64% accuracy in the prediction of diffusion direction. 
+
+
+
+
+
+
+
+
